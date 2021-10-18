@@ -5,7 +5,7 @@ const ListItem = styled.li`
   max-width: 700px;
   border-radius: 7px;
   display: flex;
-  align-item: center;
+  align-items: center;
   box-shadow: 0 0 4px rgba(0, 0, 0, .2);
   padding: 16px;
   box-sizing: border-box;
